@@ -124,6 +124,8 @@ Training and green building initiatives underperform across multiple regions (Eg
 -   Rebalance staffing in smaller branches (Syria, Lebanon) to stabilize performance.
 -   Share best practices from Saudi Arabia’s high-performing teams with other regions.
 
+> **Calculation Assumption:** The labor costs were calculated based on the assumption that the standard work hours are 40 hours per week. Overtime hours were calculated at a rate of 1.5 times the regular hourly rate.
+
 ## Explore the Dashboard
 
 You can explore the interactive HR Analysis dashboard by following [this link](https://public.tableau.com/app/profile/abdullah.elhelw/viz/HRAnalysis_17379617138080/Dashboard1?publish=yes). The dashboard provides a comprehensive view of the data, allowing you to:
